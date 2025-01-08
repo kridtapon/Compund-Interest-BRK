@@ -1,1 +1,1 @@
-# Compund-Interest-BRK
+# Compound-Interest-BRK
